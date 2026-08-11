@@ -34,7 +34,7 @@ h1 {
 }
 
 .cargo {
-  /* TODO: font-weight: bold OU font-style: italic */
+ font-weight: bold;
 }
 
 .cartao {
